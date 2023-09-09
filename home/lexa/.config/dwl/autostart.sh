@@ -1,3 +1,4 @@
+sudo setcpufreq 2000
 wlr-randr --output VGA-1 --mode 1280x1024@75.025Hz
 ls /media/HDD/Games > /dev/null || sudo ntfs-3g /dev/sda5 /media/HDD > /dev/null
 ls /media/HDD/Games > /dev/null || sudo ntfs-3g /dev/sdb5 /media/HDD > /dev/null
