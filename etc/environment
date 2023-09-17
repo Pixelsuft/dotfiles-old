@@ -1,0 +1,28 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+PATH=/home/lexa/.local/bin:/home/lexa/bin:/home/lexa/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/home/lexa/Android/Sdk/platform-tools
+# DISPLAY=:0
+LD_LIBRARY_PATH=/usr/local/lib64:/usr/lib64:/usr/local/lib:/usr/lib
+ANDROID_HOME=/home/lexa/Android/Sdk
+ANDROID_NDK_HOME=/home/lexa/Android/Sdk/ndk/25.2.9519653
+_JAVA_AWT_WM_NONREPARENTING=1
+EDITOR=nano
+XDG_SESSION_TYPE=wayland
+XDG_CURRENT_DESKTOP=sway
+GDK_BACKEND=wayland
+GTK_THEME=Adwaita:dark
+QT_QPA_PLATFORMTHEME=qt5ct
+QT_WAYLAND_DISABLE_WINDOWDECORATION=1
+CC=clang
+CXX=clang++
+CFLAGS=-Ofast
+MOZ_ENABLE_WAYLAND=1
+QT_QPA_PLATFORM=wayland-egl
+ELM_DISPLAY=wl
+ECORE_EVAS_ENGINE=wayland_egl
+ELM_ENGINE=wayland_egl
+SDL_VIDEODRIVER=wayland
+SDL_AUDIODRIVER=pipewire
