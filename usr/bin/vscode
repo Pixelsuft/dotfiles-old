@@ -1,1 +1,1 @@
-code-oss --enable-features=UseOzonePlatform --ozone-platform=wayland
+code-oss --enable-features=UseOzonePlatform --ozone-platform=wayland &
