@@ -1,0 +1,2 @@
+configure --enable-lto --enable-bochs --enable-curses --enable-fuse --enable-gtk --enable-guest-agent --enable-hv-balloon --enable-iconv --enable-libusb --enable-opengl --enable-pipewire  --enable-linux-aio --enable-png --enable-sdl --enable-sdl-image --enable-slirp --enable-slirp-smbd --enable-spice --enable-spice-protocol --enable-vde --enable-vhost-net --enable-vhost-user --enable-vhost-vdpa --enable-virglrenderer --enable-vnc --enable-vnc-jpeg --enable-system
+
